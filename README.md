@@ -1,2 +1,2 @@
 # QVI
-Quantium virtual internship
+Estágio online feito na empresa Quantium pelo site www.insidesherpa.com.
